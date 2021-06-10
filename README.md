@@ -37,9 +37,6 @@ Description:
 Acknowledgements:
     Bingqiu Chen, bchen@ynu.edu.cn
 
-================================================================================
-(End)   Bingqiu Chen [Obs. Besancon], Patricia Vannier [CDS]        15-Nov-2012
-
 
 # Conditions for using the program
 The program relies on the dustmaps package. The dustmaps package provides a uniform interface for dealing with a number of 2D and 3D maps of interstellar dust reddening/extinction. For details, please refer to https://github.com/gregreen/dustmaps
