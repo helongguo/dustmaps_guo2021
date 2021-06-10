@@ -53,7 +53,7 @@ For details on how to use this map, see the original paper:
 Acknowledgements:
     Bingqiu Chen, bchen@ynu.edu.cn
 
-# dustmaps_schultheis2013
+# dustmaps_schultheis2014
 
 We use data from the VISTA Variables in the Via Lactea survey together with the
 Besancon stellar population synthesis model of the Galaxy to determine
@@ -77,7 +77,7 @@ consistent values as other 2D maps.
 
 To get the color excess e.g. E(J-Ks) 
 
-    >>> from dustmaps.schultheis2013 import Schultheis2013Query
+    >>> from dustmaps.schultheis2014 import Schultheis2014Query
 
 For details on how to use this map, see the original paper:
     https://ui.adsabs.harvard.edu/abs/2014A%26A...566A.120S/abstract.
