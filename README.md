@@ -38,11 +38,11 @@ Description:
   
 To get the color excess e.g. E(H-Ks) based on the data from VVV
 
-    from dustmaps.guo2021 import Chen2013VVVQuery    
+    >>> from dustmaps.guo2021 import Chen2013VVVQuery    
     
 To get the color excess e.g. E(K-3.6) based on the data from GLIMPSE
 
-    from dustmaps.guo2021 import Chen2013GLIMPSEQuery       
+    >>> from dustmaps.guo2021 import Chen2013GLIMPSEQuery       
  
     
 For details on how to use this map, see the original paper:
@@ -77,7 +77,7 @@ consistent values as other 2D maps.
 
 To get the color excess e.g. E(J-Ks) 
 
-    from dustmaps.guo2021 import Schultheis2013Query
+    >>> from dustmaps.guo2021 import Schultheis2013Query
 
 For details on how to use this map, see the original paper:
     https://ui.adsabs.harvard.edu/abs/2014A%26A...566A.120S/abstract.
