@@ -37,7 +37,31 @@ Description:
 Acknowledgements:
     Bingqiu Chen, bchen@ynu.edu.cn
 
+# dustmaps_schultheis2013
+We use data
+    from the VISTA Variables in the Via Lactea survey together with the
+    Besancon stellar population synthesis model of the Galaxy to determine
+    interstellar extinction as a function of distance in the Galactic
+    bulge covering -10<l<10 and -10<b<5. We adopted a recently developed
+    method to calculate the colour excess. First we constructed the H-Ks
+    vs. Ks and J-Ks vs. Ks colour-magnitude diagrams based on the VVV
+    catalogues that matched 2MASS. Then, based on the temperature-colour
+    relation for M giants and the distance-colour relations, we derived
+    the extinction as a function of distance. The observed colours were
+    shifted to match the intrinsic colours in the Besancon model as a
+    function of distance iteratively. This created an extinction map with
+    three dimensions: two spatial and one distance dimension along each
+    line of sight towards the bulge. We present a 3D extinction map that
+    covers the whole VVV area with a resolution of 6'x6', for J-Ks and
+    H-Ks using distance bins of 0.5-1.0kpc. The high resolution and depth of
+    the photometry allows us to derive extinction maps for a range of
+    distances up to 10kpc and up to 30 magnitudes of extinction in AV
+    (3.0mag in AKs). Integrated maps show the same dust features and
+    consistent values as other 2D maps.
+--------------------------------------------------------------------------------
 
+Acknowledgements:
+       Mathias Schultheis, mathias.schultheis(at)oca.eu
 # Conditions for using the program
 The program relies on the dustmaps package. The dustmaps package provides a uniform interface for dealing with a number of 2D and 3D maps of interstellar dust reddening/extinction. For details, please refer to https://github.com/gregreen/dustmaps
 
