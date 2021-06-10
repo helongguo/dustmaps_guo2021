@@ -33,7 +33,7 @@ Description:
     give the E(J-Ks), E(H-Ks) as well as the corresponding sigma for
     each distance bin starting from 1 to 10kpc.
     
-    For details on how to use this map, see the original paper:
+For details on how to use this map, see the original paper:
     https://ui.adsabs.harvard.edu/abs/2013A%26A...550A..42C/abstract.
 
 --------------------------------------------------------------------------------
