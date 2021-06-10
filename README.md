@@ -11,13 +11,13 @@ If you have any questions or need more informations, please send emall to Bingqi
 
 # dustmaps_chen2013
 J/A+A/550/A42       Extinction map towards the Galactic bulge  (Chen+, 2013)
-================================================================================
+
 Three dimensional interstellar extinction map towards the Galactic bulge.
     Chen B., Schultheis M., Jiang B., Gonzalez O.A., Robin A.C., Rejkuba M.,
     Minniti D.
    <Astron. Astrophys. 550, A42 (2013)>
    =2013A&A...550A..42C
-================================================================================
+
 ADC_Keywords: Extinction ; Photometry, infrared ; Milky Way
 Keywords: dust, extinction - Galaxy: bulge - Galaxy: stellar content -
           Galaxy: structure
