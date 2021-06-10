@@ -87,5 +87,5 @@ For details on how to use this map, see the original paper:
 Acknowledgements:
        Mathias Schultheis, mathias.schultheis(at)oca.eu
 # Conditions for using the program
-The program relies on the dustmaps package. The dustmaps package provides a uniform interface for dealing with a number of 2D and 3D maps of interstellar dust reddening/extinction. For details and how to install, please refer to https://github.com/gregreen/dustmaps
+The program relies on the [`astropy.coordinates.SkyCoord`](http://docs.astropy.org/en/stable/api/astropy.coordinates.SkyCoord.html#astropy.coordinates.SkyCoord) and ['dustmaps'](https://github.com/gregreen/dustmaps)package. The [`dustmaps`] package provides a uniform interface for dealing with a number of 2D and 3D maps of interstellar dust reddening/extinction. For details and how to install, please refer to https://github.com/gregreen/dustmaps
 
