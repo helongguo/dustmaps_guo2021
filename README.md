@@ -35,6 +35,15 @@ Description:
     (http://mill.astro.puc.cl/BEAM/calculator.php). For each position we
     give the E(J-Ks), E(H-Ks) as well as the corresponding sigma for
     each distance bin starting from 1 to 10kpc.
+  
+To get the color excess e.g. E(H-Ks) based on the data from VVV
+
+    from dustmaps.guo2021 import Chen2013VVVQuery    
+    
+To get the color excess e.g. E(K-3.6) based on the data from GLIMPSE
+
+    from dustmaps.guo2021 import Chen2013GLIMPSEQuery       
+ 
     
 For details on how to use this map, see the original paper:
     https://ui.adsabs.harvard.edu/abs/2013A%26A...550A..42C/abstract.
@@ -65,6 +74,10 @@ the photometry allows us to derive extinction maps for a range of
 distances up to 10kpc and up to 30 magnitudes of extinction in AV
 (3.0mag in AKs). Integrated maps show the same dust features and
 consistent values as other 2D maps.
+
+To get the color excess e.g. E(J-Ks) 
+
+    from dustmaps.guo2021 import Schultheis2013Query
 
 For details on how to use this map, see the original paper:
     https://ui.adsabs.harvard.edu/abs/2014A%26A...566A.120S/abstract.
