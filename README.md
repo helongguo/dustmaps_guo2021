@@ -35,7 +35,7 @@ Description:
 --------------------------------------------------------------------------------
 
 Acknowledgements:
-    Bingqiu Chen, bingqiuchen(at)gmail.com
+    Bingqiu Chen, bchen@ynu.edu.cn
 
 ================================================================================
 (End)   Bingqiu Chen [Obs. Besancon], Patricia Vannier [CDS]        15-Nov-2012
