@@ -95,6 +95,7 @@ To get the color excess E(B-V)
     
 --------------------------------------------------------------------------------
 If you have any questions or need more informations, please send emall to Bingqiu Chen (bchen@ynu.edu.cn) and Helong Guo (helong_guo@mail.ynu.edu.cn).
+
 --------------------------------------------------------------------------------
 
 # Conditions for using the program
