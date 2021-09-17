@@ -207,7 +207,7 @@ def fetch(clobber=False):
     # Download from the server
     url = 'http://paperdata.china-vo.org/guo/dust/chen2021.zip'
     archive_fname = os.path.join(dest_dir, 'chen2021.zip')
-    archive_md5sum = 'c2417b2e6607b19d7dacb8fd004327ca'
+    archive_md5sum = '30e05c166aee7eca4ed0cbaedb3b57fb'
 
     fetch_utils.download_and_verify(url, archive_md5sum, archive_fname)
 
