@@ -352,13 +352,13 @@ def fetch(clobber=False):
     """
     dest_dir = fname_pattern = os.path.join(data_dir(), 'guo2021')
     table_fname = os.path.join(dest_dir, 'guo2021.fits')
-    table_fname2 = os.path.join(dest_dir, 'allsky2021.fits')
+    table_fname1 = os.path.join(dest_dir, 'allsky2021.fits')
     
     
     # Check if the FITS table already exists
     table_md5sum = 'fdafcab1b92d07f2bca6248d785d4f3d'
 
-    if (not clobber) and fetch_utils.check_md5sum(table_fname1, table_md5sum):
+    if (not clobber) and fetch_utils.check_md5sum(table_fname, table_md5sum):
         print('File appears to exist already. Call `fetch(clobber=True)` '
               'to force overwriting of existing file.')
         return
