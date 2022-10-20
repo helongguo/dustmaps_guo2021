@@ -11,7 +11,7 @@ The file 'allsky2021.fits' is an all-sky extinction maps, which combine our 3D e
 
     >>> from dustmaps.guo2021 import Guo2021AQuery
 --------------------------------------------------------------------------------
-If you have any questions or need more informations, please send emall to Bingqiu Chen (bchen@ynu.edu.cn) and Helong Guo (helong_guo@mail.ynu.edu.cn).
+If you have any questions or need more informations, please send emall to Bingqiu Chen (bchen@ynu.edu.cn) and Helong Guo (hlguo@ynu.edu.cn).
 
 # dustmaps_chen2013
 J/A+A/550/A42       Extinction map towards the Galactic bulge  (Chen+, 2013)
