@@ -94,7 +94,7 @@ To get the color excess E(B-V)
     >>> from dustmaps.chen2021 import Chen2021Query
     
 --------------------------------------------------------------------------------
-If you have any questions or need more informations, please send emall to Bingqiu Chen (bchen@ynu.edu.cn) and Helong Guo (helong_guo@mail.ynu.edu.cn).
+If you have any questions or need more informations, please send emall to Bingqiu Chen (bchen@ynu.edu.cn) and Helong Guo (hlguo@ynu.edu.cn).
 
 --------------------------------------------------------------------------------
 
